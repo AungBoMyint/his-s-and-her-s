@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "492366862202",
+    "project_id": "his-and-her-fashion-design",
+    "storage_bucket": "his-and-her-fashion-design.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492366862202:android:147482f75d7b6cff4c68c3",
+        "android_client_info": {
+          "package_name": "com.kzn.hisandherfashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492366862202-ll5o43fg4fv4ten9g6uht03as1l2cafe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.hisandherfashion",
+            "certificate_hash": "0cace59864e260a684ebebf2cc33b999f2950cd4"
+          }
+        },
+        {
+          "client_id": "492366862202-mj2jsj17va0t3ssj6i6gqv0vhqarshj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPlkpygJpgg7_-BeX6uIPPPnTyudJToUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492366862202-mj2jsj17va0t3ssj6i6gqv0vhqarshj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
